@@ -1,2 +1,3 @@
-# Repo1
-Este es un README de Ejemplo
+# Readme
+Daniel Felipe Arenas
+Estudiante 
