@@ -1,3 +1,3 @@
 # Readme
 Daniel Felipe Arenas
-Estudiante 
+Estudiante Ing.Sistemas
